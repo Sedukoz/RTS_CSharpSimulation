@@ -1,0 +1,15 @@
+B:\One drive\OneDrive - Asia Pacific University\YEAR 3\RTS\Assignment\Code C\RTS_Assignment\bin\Debug\net6.0\RTS_Assignment.exe
+B:\One drive\OneDrive - Asia Pacific University\YEAR 3\RTS\Assignment\Code C\RTS_Assignment\bin\Debug\net6.0\RTS_Assignment.deps.json
+B:\One drive\OneDrive - Asia Pacific University\YEAR 3\RTS\Assignment\Code C\RTS_Assignment\bin\Debug\net6.0\RTS_Assignment.runtimeconfig.json
+B:\One drive\OneDrive - Asia Pacific University\YEAR 3\RTS\Assignment\Code C\RTS_Assignment\bin\Debug\net6.0\RTS_Assignment.dll
+B:\One drive\OneDrive - Asia Pacific University\YEAR 3\RTS\Assignment\Code C\RTS_Assignment\bin\Debug\net6.0\RTS_Assignment.pdb
+B:\One drive\OneDrive - Asia Pacific University\YEAR 3\RTS\Assignment\Code C\RTS_Assignment\obj\Debug\net6.0\RTS_Assignment.csproj.AssemblyReference.cache
+B:\One drive\OneDrive - Asia Pacific University\YEAR 3\RTS\Assignment\Code C\RTS_Assignment\obj\Debug\net6.0\RTS_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+B:\One drive\OneDrive - Asia Pacific University\YEAR 3\RTS\Assignment\Code C\RTS_Assignment\obj\Debug\net6.0\RTS_Assignment.AssemblyInfoInputs.cache
+B:\One drive\OneDrive - Asia Pacific University\YEAR 3\RTS\Assignment\Code C\RTS_Assignment\obj\Debug\net6.0\RTS_Assignment.AssemblyInfo.cs
+B:\One drive\OneDrive - Asia Pacific University\YEAR 3\RTS\Assignment\Code C\RTS_Assignment\obj\Debug\net6.0\RTS_Assignment.csproj.CoreCompileInputs.cache
+B:\One drive\OneDrive - Asia Pacific University\YEAR 3\RTS\Assignment\Code C\RTS_Assignment\obj\Debug\net6.0\RTS_Assignment.dll
+B:\One drive\OneDrive - Asia Pacific University\YEAR 3\RTS\Assignment\Code C\RTS_Assignment\obj\Debug\net6.0\refint\RTS_Assignment.dll
+B:\One drive\OneDrive - Asia Pacific University\YEAR 3\RTS\Assignment\Code C\RTS_Assignment\obj\Debug\net6.0\RTS_Assignment.pdb
+B:\One drive\OneDrive - Asia Pacific University\YEAR 3\RTS\Assignment\Code C\RTS_Assignment\obj\Debug\net6.0\RTS_Assignment.genruntimeconfig.cache
+B:\One drive\OneDrive - Asia Pacific University\YEAR 3\RTS\Assignment\Code C\RTS_Assignment\obj\Debug\net6.0\ref\RTS_Assignment.dll
